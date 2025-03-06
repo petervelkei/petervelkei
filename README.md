@@ -1,13 +1,12 @@
 # About Me:
-- **Software Development**: Delivering precise, detail-oriented work resulting in efficient, high-quality code across both web and desktop environments.
+
+- Precise, detail-oriented work
     
-- **Broad Technological Background**: Proficient in C++, Java, C#, and JavaScript, with hands-on experience in Node.js + Express + MongoDB full-stack development as well as Java/C# desktop applications.
-    
-- **Version Control and Containerization**: Experienced with Git and Docker, ensuring faster, more secure development workflows through robust containerization solutions.
+- Proficient in C++, Java, C#, and JavaScript
+      
+- Clear, professional documentation using Markdown and LaTeX
   
-- **Documentation and Code Quality**: Clear, professional documentation using Markdown and LaTeX, maintaining a commitment to clean, maintainable, and efficient code.
-  
-- **Teamwork and Communication**: Strong problem-solving abilities, effective collaboration, and proactive information sharing in both academic and professional settings.  
+- Strong problem-solving abilities and effective collaboration
 
 ## Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/peter.velkei.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/petervelkei) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peter-velkei-b18043279)
